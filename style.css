@@ -1,0 +1,26 @@
+header {
+    background-image: linear-gradient(green, blue, white);
+    color: #fff;
+    padding: 20px;
+}
+
+footer {
+    background-image: linear-gradient(white, blue, green);
+    padding: 20px;
+}
+.waem a{
+    color: white;
+}
+.nm a {
+    color: white;
+}
+.a {
+    width: 25px;
+}
+.b {
+    width: 25px;
+}
+
+.border {
+    border-radius: 10px;
+}
